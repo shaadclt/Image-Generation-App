@@ -10,38 +10,38 @@ This project is a Streamlit-based web app that enables users to generate AI-gene
 ## Setup Instructions
 1. **Clone the Repository**
 
-```bash
-git clone https://github.com/shaadclt/Image-Generation-App-DALL-E-Huggingface-Diffusers.git
-cd Image-Generation-App-DALL-E-Huggingface-Diffusers
-```
+    ```bash
+    git clone https://github.com/shaadclt/Image-Generation-App-DALL-E-Huggingface-Diffusers.git
+    cd Image-Generation-App-DALL-E-Huggingface-Diffusers
+    ```
 
 2. **Install Dependencies**
 
-Use the requirements.txt file to install the necessary packages:
-
-```bash
-pip install -r requirements.txt
-```
+    Use the requirements.txt file to install the necessary packages:
+    
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. **Set Up API Keys**
 
-Create a `.env` file in the root directory and add your OpenAI API key:
-
-```bash
-OPENAI_API_KEY=your_openai_api_key
-```
+    Create a `.env` file in the root directory and add your OpenAI API key:
+    
+    ```bash
+    OPENAI_API_KEY=your_openai_api_key
+    ```
 
 4. **Run the App**
 
-Run the Streamlit app:
-
-```bash
-streamlit run app.py
-```
+    Run the Streamlit app:
+    
+    ```bash
+    streamlit run app.py
+    ```
 
 5. **CUDA Setup** (Optional for Diffusers)
 
-Ensure you have the necessary GPU drivers and libraries for running Stable Diffusion with CUDA. This improves image generation performance.
+    Ensure you have the necessary GPU drivers and libraries for running Stable Diffusion with CUDA. This improves image generation performance.
 
 ## Usage
 1. Select the model you want to use from the sidebar (`DALL-E` or `Huggingface Diffusers`).
