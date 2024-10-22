@@ -1,4 +1,4 @@
-# Image Generation App with DALL-E and Huggingface Diffusers"
+# Image Generation App with DALL-E and Huggingface Diffusers
 This project is a Streamlit-based web app that enables users to generate AI-generated images using text prompts. The app integrates two powerful image generation models: OpenAI's DALL-E and Huggingface's Diffusion models.
 
 ## Features
