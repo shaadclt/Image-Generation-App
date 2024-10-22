@@ -11,8 +11,8 @@ This project is a Streamlit-based web app that enables users to generate AI-gene
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/shaadclt/Image-Generation-App.git
-cd Image-Generation-App
+git clone https://github.com/shaadclt/Image-Generation-App-DALL-E-Huggingface-Diffusers.git
+cd Image-Generation-App-DALL-E-Huggingface-Diffusers
 ```
 
 2. **Install Dependencies**
